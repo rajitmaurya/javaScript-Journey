@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2 id="title">DOM Styling Practice</h2>
+
+<button id="increaseBtn">Increase Font Size</button>
+</body>
+<script>
+    let title = document.querySelector("#title");
+let btn = document.querySelector("#increaseBtn");
+
+let size = 20;
+
+btn.addEventListener("click", function () {
+  size += 5;
+  title.style.fontSize = size + "px";
+});
+</script>
+</html>
