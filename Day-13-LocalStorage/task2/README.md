@@ -1,0 +1,1 @@
+Counter App with LocalStorage (data persistence)
