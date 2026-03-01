@@ -19,3 +19,8 @@ button.addEventListener("click", function () {
 });
 
 
+clearBtn.addEventListener("click", function () {
+  localStorage.removeItem("username");
+
+  output.textContent = "Data cleared ❌";
+});
