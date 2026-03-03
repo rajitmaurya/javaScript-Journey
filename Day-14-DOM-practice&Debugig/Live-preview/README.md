@@ -13,5 +13,3 @@ A simple JavaScript project that shows live text preview as the user types.
 - textContent
 - input event
 
-## Status
-✅ Completed
