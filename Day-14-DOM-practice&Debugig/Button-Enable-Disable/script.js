@@ -13,3 +13,6 @@ input.addEventListener("input", function () {
 button.addEventListener("click", function () {
   alert("Submitted!");
 });
+
+
+button.style.backgroundColor = "green";
