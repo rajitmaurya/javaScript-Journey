@@ -8,3 +8,8 @@ input.addEventListener("input", function () {
     button.disabled = false;
   }
 });
+
+
+button.addEventListener("click", function () {
+  alert("Submitted!");
+});
