@@ -15,5 +15,3 @@ A simple JavaScript To-Do List application that allows users to add and delete t
 - LocalStorage
 - JSON methods
 
-## Stpletedatus
-✅ Com
