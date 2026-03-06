@@ -1,0 +1,31 @@
+body{
+  font-family: Arial;
+  background:#f4f4f4;
+  display:flex;
+  justify-content:center;
+  margin-top:60px;
+}
+
+.container{
+  background:white;
+  padding:20px;
+  width:350px;
+  border-radius:8px;
+}
+
+li{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  margin-top:10px;
+}
+
+.completed{
+  text-decoration: line-through;
+  color: gray;
+}
+
+.dark{
+  background:#222;
+  color:white;
+}
