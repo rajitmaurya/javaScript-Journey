@@ -1,3 +1,5 @@
+//Backticks ` ` use karte hain template literals me.
+
 // old way
 let name = "Rajit";
 let msg = "Hello " + name;
