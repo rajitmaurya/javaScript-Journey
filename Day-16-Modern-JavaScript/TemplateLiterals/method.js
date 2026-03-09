@@ -8,3 +8,4 @@ console.log(msg);
 let name1 = "Rajit";
 
 console.log(`Hello ${name}`);
+
