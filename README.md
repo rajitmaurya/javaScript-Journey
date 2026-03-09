@@ -75,9 +75,6 @@ To become confident in JavaScript fundamentals, improve problem-solving skills, 
 
 ---
 
-## 📈 Progress
-- ✅ Completed: Day 01 – Day 12
-- 🔄 In Progress: Day 13
 
 ---
 
