@@ -23,3 +23,10 @@ function greet(){
 }
 
 setTimeout(greet, 3000);
+
+
+//Print numbers 1 to 5 every second
+
+setTimeout(() => {
+  console.log("Hello after 3 seconds");
+}, 3000);
