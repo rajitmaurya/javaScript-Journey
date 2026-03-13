@@ -17,3 +17,9 @@ console.log("End");  //Start
 // Hello after 2 seconds
 
 
+//SetTimeout with function
+function greet(){
+  console.log("Hello Rajit");
+}
+
+setTimeout(greet, 3000);
