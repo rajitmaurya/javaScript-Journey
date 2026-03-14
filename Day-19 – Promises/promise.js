@@ -15,7 +15,21 @@
 // State	Meaning
 // Pending	kaam chal raha
 // Resolved	success
-// Rejected	er
+// Rejected	error
+
+
+//Baiscs promises
+const myPromise = new Promise((resolve, reject) => {
+
+  let success = true;
+
+  if (success) {
+    resolve("Task completed");
+  } else {
+    reject("Task failed");
+  }
+
+});
 
 
 
