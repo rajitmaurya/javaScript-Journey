@@ -32,4 +32,11 @@ const myPromise = new Promise((resolve, reject) => {
 });
 
 
-
+//Using .then() and .catch()
+myPromise
+.then(result => {
+  console.log(result);
+})
+.catch(error => {
+  console.log(error);
+}); // task completed
