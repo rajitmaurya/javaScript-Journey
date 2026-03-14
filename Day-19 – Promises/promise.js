@@ -11,3 +11,11 @@
 
 
 
+// Promise-States
+// State	Meaning
+// Pending	kaam chal raha
+// Resolved	success
+// Rejected	er
+
+
+
