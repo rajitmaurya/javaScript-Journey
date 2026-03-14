@@ -40,3 +40,29 @@ myPromise
 .catch(error => {
   console.log(error);
 }); // task completed
+
+
+
+//Example – Delayed Task
+const promise = new Promise((resolve) => {
+
+  setTimeout(() => {
+    resolve("Data loaded");
+  }, 2000);
+
+});
+
+promise.then(result => console.log(result));//Data lodaded
+
+
+
+
+//promise chaining
+const promise2= new Promise((resolve) => {
+  resolve(2);
+});
+
+promise
+.then(num => num * 2)
+.then(num => num * 3)
+.then(result => console.log(result));//12
