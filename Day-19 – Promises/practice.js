@@ -51,3 +51,13 @@ const fetchUser = new Promise((resolve) => {
 });
 
 fetchUser.then(data => console.log(data));//User data fetched
+
+
+
+
+
+// 
+// Real APIs me Promise use hota hai:
+// fetch("https://api.example.com")
+// .then(res => res.json())
+// .then(data => console.log(data));

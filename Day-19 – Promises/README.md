@@ -6,3 +6,7 @@
 - then() and catch()
 - Promise chaining
 
+## Practice
+- Delayed promise
+- Conditional promise
+- Chaining promises
