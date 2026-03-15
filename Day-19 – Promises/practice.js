@@ -29,3 +29,12 @@ checkResult
 .catch(error => console.log(error));//pass
 
 
+//promise chaining Start with 5 → ×2 → ×3
+const promise2 = new Promise((resolve) => {
+  resolve(5);
+});
+
+promise
+.then(num => num * 2)
+.then(num => num * 3)
+.then(result => console.log(result));
