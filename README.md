@@ -1,12 +1,12 @@
-# JavaScript Journey 🚀
+# JavaScript Journey 
 
 This repository documents my **daily JavaScript learning journey**, starting from basics and progressing toward advanced concepts and real-world projects.
 
 ---
 
-## 🗓 Learning Plan
+##  Learning Plan
 
-### 🔰 Week 1 – JavaScript Fundamentals
+###  Week 1 – JavaScript Fundamentals
 - Day 01: JavaScript Basics ✅
 - Day 02: Operators & Conditions ✅
 - Day 03: Loops ✅
