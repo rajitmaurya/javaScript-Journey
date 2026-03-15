@@ -38,3 +38,16 @@ promise
 .then(num => num * 2)
 .then(num => num * 3)
 .then(result => console.log(result));
+
+
+
+//Mini task simulate api call 
+const fetchUser = new Promise((resolve) => {
+
+  setTimeout(() => {
+    resolve("User data fetched");
+  }, 3000);
+
+});
+
+fetchUser.then(data => console.log(data));//User data fetched
