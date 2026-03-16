@@ -54,7 +54,17 @@ async function loadData() {
 
 loadData();
 
+// Error Handling
+async function test() {
+  try {
+    let result = await Promise.reject("Error happened");
+    console.log(result);
+  } catch (error) {
+    console.log(error);
+  }
+}
 
+test();
 
 
 
