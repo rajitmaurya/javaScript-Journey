@@ -31,7 +31,28 @@ async function fetchData() {
 fetchData(); // after 2 second output - Data Recieved
 
 
+// multiple await example 
+function getUser() {
+  return new Promise(resolve => {
+    setTimeout(() => resolve("User loaded"), 1000);
+  });
+}
 
+function getPosts() {
+  return new Promise(resolve => {
+    setTimeout(() => resolve("Posts loaded"), 1000);
+  });
+}
+
+async function loadData() {
+  let user = await getUser();
+  console.log(user);
+
+  let posts = await getPosts();
+  console.log(posts);
+}
+
+loadData();
 
 
 
