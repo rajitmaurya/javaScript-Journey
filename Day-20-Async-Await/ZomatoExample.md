@@ -35,7 +35,7 @@ orderFood().then(food => {
 
 ## Order → Wait → .then() → Result
 
-##With async/await (Modern Way)
+##  With async/await (Modern Way)
 
 
 
