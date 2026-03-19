@@ -32,7 +32,11 @@ orderFood().then(food => {
   console.log(food);
 });
 
+
+
 ---
+
+
 ## Order → Wait → .then() → Result
 ---
 ##  With async/await (Modern Way)
