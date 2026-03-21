@@ -1,11 +1,11 @@
-async function getUsers() {
-  let res = await fetch("https://jsonplaceholder.typicode.com/users");
-  let data = await res.json();
-
-  console.log(data);
-}
-
-getUsers();
+// async function getUsers() {
+//   let res = await fetch("https://jsonplaceholder.typicode.com/users");
+//   let data = await res.json();
+// 
+//   console.log(data);
+// }
+// 
+// getUsers();
 
 
 let list = document.querySelector("#list");

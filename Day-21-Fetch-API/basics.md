@@ -1,3 +1,7 @@
+## API kya hota hai?
+👉 API = server se data lene ka tarika
+
+
 ## Basic fetch syntax
 ```js
 fetch("API_URL")
