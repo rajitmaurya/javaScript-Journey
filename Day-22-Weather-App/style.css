@@ -1,0 +1,24 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.container {
+  width: 300px;
+  margin: auto;
+}
+
+input {
+  padding: 8px;
+  width: 70%;
+}
+
+button {
+  padding: 8px;
+  cursor: pointer;
+}
+
+#weather {
+  margin-top: 20px;
+}
