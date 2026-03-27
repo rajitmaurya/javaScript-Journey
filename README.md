@@ -62,7 +62,7 @@ Each folder represents one day of learning with practice code and mini projects.
 
 ---
 
-## 🎯 Goal
+## Goal
 To become confident in JavaScript fundamentals, improve problem-solving skills, and build real-world projects.
 
 ---
