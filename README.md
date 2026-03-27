@@ -40,7 +40,7 @@ This repository documents my **daily JavaScript learning journey**, starting fro
 
 ---
 
-### 🔧 Week 4 – Backend Basics (Node.js)
+###  Week 4 – Backend Basics (Node.js)
 - Day 23: Node.js Basics
 - Day 24: Express.js Introduction
 - Day 25: REST APIs (GET, POST)
