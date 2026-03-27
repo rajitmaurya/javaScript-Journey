@@ -57,7 +57,7 @@ This repository documents my **daily JavaScript learning journey**, starting fro
 
 ---
 
-## 📁 Structure
+##  Structure
 Each folder represents one day of learning with practice code and mini projects.
 
 ---
