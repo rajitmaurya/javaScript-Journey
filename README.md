@@ -4,7 +4,7 @@ This repository documents my **daily JavaScript learning journey**, starting fro
 
 ---
 
-##  Learning 
+##  Learning plan
 
 ###  Week 1 – JavaScript Fundamentals
 - Day 01: JavaScript Basics ✅
