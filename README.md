@@ -29,7 +29,7 @@ This repository documents my **daily JavaScript learning journey**, starting fro
 
 ---
 
-### ⚡ Week 3 – Modern JavaScript
+###  Week 3 – Modern JavaScript
 - Day 16: ES6 (Arrow Functions, Template Literals)
 - Day 17: Array Methods (map, filter, reduce)
 - Day 18: setTimeout, setInterval
