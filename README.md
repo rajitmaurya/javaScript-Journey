@@ -48,7 +48,7 @@ This repository documents my **daily JavaScript learning journey**, starting fro
 
 ---
 
-### 🚀 Final Phase – Projects
+###  Final Phase – Projects
 - Day 27–30: Major Projects
   - To-Do App (Advanced)
   - Weather App
@@ -86,6 +86,6 @@ To become confident in JavaScript fundamentals, improve problem-solving skills, 
 
 ---
 
-### 👨‍💻 Author
+###  Author
 **Rajit Maurya**  
 Web Developer | Learning MERN Stack 🚀
