@@ -78,7 +78,7 @@ To become confident in JavaScript fundamentals, improve problem-solving skills, 
 
 ---
 
-## 💡 Highlights
+##  Highlights
 - Daily consistent coding practice
 - Hands-on mini projects
 - Clean and structured code
