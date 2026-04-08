@@ -17,12 +17,12 @@ This repository documents my **daily JavaScript learning journey**, starting fro
 
 ---
 
-### 🌐 Week 2 – DOM & Web JavaScript
+###  Week 2 – DOM & Web JavaScript
 - Day 08: DOM Basics (getElementById, querySelector) ✅
 - Day 09: Events & Input Handling ✅
 - Day 10: Login Form Project (Validation) ✅
-- Day 11: DOM Styling & classList ✅
-- Day 12: Counter App Project ✅
+- Day 11: DOM Styling & classList 
+- Day 12: Counter App Project 
 - Day 13: LocalStorage (Data Persistence)
 - Day 14: DOM Practice & Bug Fixing
 - Day 15: To-Do App Project
