@@ -28,6 +28,7 @@ This repository documents my **daily JavaScript learning journey**, starting fro
 - Day 15: To-Do App Project
 
 ---
+
 ###  Week 3 – Modern JavaScript
 - Day 16: ES6 (Arrow Functions, Template Literals)
 - Day 17: Array Methods (map, filter, reduce)
